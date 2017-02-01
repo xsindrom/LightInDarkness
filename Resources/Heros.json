@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "firefly",
+        "price": 0,
+        "image_path": "Images/Heros/hero1",
+        "animator_path": "Animations/Heros/Firefly"
+    },
+    {
+        "id": 1,
+        "name": "bee",
+        "price": 0,
+        "image_path": "Images/Heros/Bee1",
+        "animator_path": "Animations/Heros/Bee"
+    },
+    {
+        "id": 2,
+        "name": "bird_1",
+        "price": 0,
+        "image_path": "Images/Heros/Bird1_1",
+        "animator_path": "Animations/Heros/Bird1"
+    },
+    {
+        "id": 3,
+        "name": "bird_2",
+        "price": 0,
+        "image_path": "Images/Heros/Bird2_1",
+        "animator_path": "Animations/Heros/Bird2"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "bird_3",
+        "price": 0,
+        "image_path": "Images/Heros/Bird3_1",
+        "animator_path": "Animations/Heros/Bird3"
+    }
+]
